@@ -33,7 +33,7 @@ Este repositório é um material de apoio ao curso básico de Python do TransDev
 
 ## Como usar este repositório
 
-1. Leia os enunciados dos exercícios na pasta `exercicios_resolvidos`
+1. Leia os enunciados dos exercícios na pasta [`exercicios_resolvidos`](/exercicios-resolvidos.md)
 2. Tente resolver por conta própria
 3. Compare com a solução comentada
 4. Modifique e experimente para consolidar o aprendizado
